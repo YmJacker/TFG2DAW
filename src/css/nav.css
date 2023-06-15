@@ -1,0 +1,17 @@
+
+
+.navegador{
+    border-radius: 100px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    position: fixed;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+
+    z-index: 11052023;
+}

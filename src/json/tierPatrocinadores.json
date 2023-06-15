@@ -1,0 +1,11 @@
+{
+    "nivel": ["Oro", "Plata", "Bronce"],
+    "precio": ["5000", "3000", "1500"],
+    "folleto": ["Primera posición en folletos y publicidad con la imagen más relevante", "Proporciona imagen en folletos y publicidad en segunda posición y tamaño", "Proporciona imagen en folletos y publicidad en tercera posición y tamaño"],
+    "banner": ["Banner grande", "Banner", "Banner"],
+    "stand": ["Stand doble en zona comercial y mejor posición", "stand en la zona comercial", ""],
+    "inscripcion": ["Inscripción para dos personas", "Inscripción para dos personas", ""],
+    "alojamineto": ["Alojamiento para dos personas", "Alojamiento para una personas", ""],
+    "pantalla": ["Mayor notoriedad en pantalla gigante", "", ""],
+    "notoriedad": ["Exclusividad para una empresa por sector", "", ""]
+}
